@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0000FF</color>
+    <string name="app_name">BlowSMS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_inbox_sms">InboxSMS</string>
+    <string name="title_activity_send_sms">SendSMS</string>
+    <string name="title_activity_smskripto">BlowSMS</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_smskripto.xml",
+        "source": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\src\\main\\res\\menu\\activity_smskripto.xml"
+    },
+    {
+        "merged": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_inbox_sms.xml",
+        "source": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\src\\main\\res\\menu\\activity_inbox_sms.xml"
+    },
+    {
+        "merged": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_send_sms.xml",
+        "source": "E:\\Education\\TA\\Software\\OWL_message\\BlowSMS\\app\\src\\main\\res\\menu\\activity_send_sms.xml"
+    }
+]

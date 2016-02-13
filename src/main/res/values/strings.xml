@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BlowSMS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_send_sms">SendSMS</string>
+    <string name="title_activity_smskripto">BlowSMS</string>
+    <string name="title_activity_inbox_sms">InboxSMS</string>
+
+</resources>
